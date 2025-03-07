@@ -1,0 +1,221 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Lucas Zanotelli dos Santos",
+    "headline": "Data Engineer",
+    "image": "https://avatars0.githubusercontent.com/u/25421866?s=460&u=38f220a2c9c658141804f881c334c594eb1642ac&v=4",
+    "email": "lucas@zanotelli.dev",
+    "phone": "+55 48 99191-5774",
+    "content": "Proficient in building and optimizing data pipelines using technologies such as Spark, Kafka, and Airflow to efficiently process and store large-scale data sets. Experienced in developing applications with Python, Go, and JavaScript for real-time data analysis and visualization. Demonstrated leadership in implementing scalable and cost-effective data solutions on cloud platforms like AWS, GCP, and Azure, with Masterise in BigQuery, Redshift, Databricks, and Snowflake. Skilled in SQL for extracting insights from complex data sets. Recognized for delivering high-quality solutions and contributing to team objectives.",
+    "location": {
+      "city": "Florianopolis",
+      "countryCode": "BR",
+      "region": "Santa Catarina"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "@lucaszsantos",
+        "url": "https://linkedin.com/in/lucaszsantos"
+      },
+      {
+        "network": "GitHub",
+        "username": "@lucaszanotelli",
+        "url": "https://github.com/lucaszanotelli"
+      }
+    ]
+  },
+  "education": [
+    {
+      "institution": "Universidade Federal de Santa Catarina",
+      "url": "https://ufsc.br",
+      "area": "Electronics Engineering",
+      "startDate": "2009-08-02",
+      "endDate": "2016-08-02",
+      "courses": ["Unfinished","Relocated during senior year."]
+    }
+  ],
+  "work": [
+    {
+      "company": "Indicium",
+      "website": "https://indicium.tech",
+      "position": "Tech Lead Data Engineer",
+      "startDate": "2024-10-02",
+      "summary": "Indicium is data-driven, and specializes in creating data science, analytics, and AI solutions",
+      "highlights": [
+        "Led the execution of Data Engineering projects, collaborating closely with a team of data analysts, resulting in an increase in data processing efficiency.",
+        "Conceptualized and built a robust pipeline of data for 5 critical internal and external applications, leveraging API services for data ingestion and monitoring ELT process through metrics and tools.",
+        "Managed the loading of data on several distributed relational and non-relational storages and aggregated +1PB of data using distributed tools, resulting in a 40% increase in data accessibility for analysis.",
+        "Drove innovation by proposing and questioning Data Engineering solutions as a critical thinker, ensuring delivery of the best possible solutions for the organization while disseminating DevOps and DataOps principles within the team, resulting in an increase in team productivity."
+      ]
+    },
+    {
+      "company": "Indicium",
+      "website": "https://indicium.tech",
+      "position": "Team Lead Data Engineer",
+      "startDate": "2023-01-02",
+      "endDate": "2024-10-01"
+    },
+    {
+      "company": "Indicium",
+      "website": "https://indicium.tech",
+      "position": "Data Engineer",
+      "startDate": "2022-07-02",
+      "endDate": "2023-01-01"
+    },
+    {
+      "company": "Indicium",
+      "website": "https://indicium.tech",
+      "position": "Trainee Data Engineer",
+      "startDate": "2022-01-02",
+      "endDate": "2022-07-01"
+    },
+    {
+      "company": "mutah",
+      "position": "Co-Founder",
+      "startDate": "2020-01-02",
+      "endDate": "2022-06-02",
+      "summary": "Delivery-only kitchen that produces plant-based cheese and other delights.",
+      "highlights": [
+        "Developed a data-driven strategy to optimize the production process, reducing waste by 30% and increasing production by 20%.",
+        "Designed and implemented a data pipeline to monitor production metrics, enabling real-time decision-making and reducing production downtime by 15%."
+      ]
+    },
+    {
+      "company": "Mazuma Mineira",
+      "website": "https://mazuma.com.br",
+      "position": "General Manager",
+      "startDate": "2016-08-02",
+      "endDate": "2019-06-02",
+      "summary": "Artisanal cachaca distillery.",
+      "highlights": [
+        "Led the implementation of a data-driven strategy to optimize the production process, reducing waste by 30% and increasing production by 20%.",
+        "Designed and implemented a data pipeline to monitor production metrics, enabling real-time decision-making and reducing production downtime by 15%."
+      ]
+    },
+    {
+      "company": "CEPED/UFSC",
+      "website": "https://ceped.ufsc.br",
+      "position": "Data Assistant",
+      "startDate": "2010-10-02",
+      "endDate": "2011-10-02",
+      "summary": "Center for Natural Disasters Research at the Santa Catarina's Federal University.",
+      "highlights": [
+        "Survey and organize data from hard-copy documents.",
+        "Help build a nationwide digital database of environmental disasters.",
+        "Custom solution development (Python and Shell scripts) cut staff workload by over 50%."
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Art of Living",
+      "position": "Instructor",
+      "startDate": "2015-06-02",
+      "endDate": "2020-01-02",
+      "summary": "Non-profit organization that offers programs to reduce stress and develop leadership skills.",
+      "highlights": [
+        "Helped participants to learn techniques to reduce stress, worry, and anxiety."
+      ]
+    },
+    {
+      "organization": "e3 UFSC",
+      "position": "Software Developer",
+      "startDate": "2010-11-02",
+      "endDate": "2016-08-02",
+      "summary": "Student organization that promotes entrepreneurship and innovation by build a prototype car to compete in a energy eficiency race.",
+      "highlights": [
+        "Firmware and hardware developer of the team vehicle's embedded telemetry systems.",
+        "Attended several energy efficiency competitions in Brazil and USA as electronics technical manager.",
+        "Team work."
+      ]
+    }
+  ],
+  "interests": [
+    {
+      "name": "Conferences",
+      "keywords": [
+        "Floripa dbt Meetup",
+        "Speaker"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Advanced"
+    },
+    {
+      "language": "French",
+      "fluency": "Basic"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Odoo ERP with e-Commerce",
+      "description": "Google Cloud Platform Project",
+      "startDate": "2021-01-02",
+      "endDate": "2021-02-02",
+      "highlights": [
+        "Odoo CE (v13) deployment, running at a Google Compute Engine instance Linux VM.",
+        "Database (PostgreSQL 9.6) provisioned apart at Cloud SQL."
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": " Amazon Web Services (AWS)",
+      "level": "Master"
+    },
+    {
+      "name": "Apache Airflow",
+      "description": "Certified by Astro",
+      "level": "Master"
+    },
+    {
+      "name": "Azure",
+      "level": "Advanced"
+    },
+    {
+      "name": "Bash",
+      "level": "Master"
+    },
+    {
+      "name": "CI/CD",
+      "level": "Master"
+    },
+    {
+      "name": "Databricks",
+      "description": "Data Engineer Associate",
+      "level": "Master"
+    },
+    {
+      "name": "Go",
+      "level": "Intermediate"
+    },
+    {
+      "name": "Google Cloud Platform",
+      "level": "Master"
+    },
+    {
+      "name": "  Kubernetes",
+      "level": "Advanced"
+    },
+    {
+      "name": "Python",
+      "level": "Master"
+    },
+    {
+      "name": "Snowflake",
+      "level": "Master"
+    },
+    {
+      "name": "SQL",
+      "level": "Advanced"
+    },
+    {
+      "name": "Terraform",
+      "level": "Advanced"
+    }
+  ]
+}
