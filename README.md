@@ -1,4 +1,4 @@
-**JSON-Based CV Repository**
+## JSON-Based CV Repository
 
 This repository stores my CV in a structured JSON format, leveraging the [JSON Resume](https://github.com/jsonresume) standard for easy maintenance and customization. The CV is hosted on **GitHub Pages** and can be viewed live at [zanotelli.dev](https://zanotelli.dev).
 
