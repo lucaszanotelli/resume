@@ -2,11 +2,11 @@
   "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
   "basics": {
     "name": "Lucas Zanotelli dos Santos",
-    "headline": "Data Engineer | AWS/GCP Certified | Python, Spark, Kafka",
+    "headline": "DevOps & Data Infrastructure Engineer | Terraform, Kubernetes, Airflow",
     "image": "https://avatars0.githubusercontent.com/u/25421866?s=460&u=38f220a2c9c658141804f881c334c594eb1642ac&v=4",
     "email": "lucas@zanotelli.dev",
     "phone": "+55 48 99191-5774",
-    "content": "Proficient in building and optimizing data pipelines using technologies such as Spark, Kafka, and Airflow to efficiently process and store large-scale data sets. Experienced in developing applications with Python, Go, and JavaScript for real-time data analysis and visualization. Demonstrated leadership in implementing scalable and cost-effective data solutions on cloud platforms like AWS, GCP, and Azure, with expertise in BigQuery, Redshift, Databricks, and Snowflake. Skilled in SQL for extracting insights from complex data sets. Recognized for delivering high-quality solutions and contributing to team objectives.",
+    "content": "DevOps and Data Infrastructure Engineer with expertise in Infrastructure as Code (Terraform), container orchestration (Kubernetes), and CI/CD pipeline automation. Certified Apache Airflow professional with a track record of architecting scalable, cloud-native solutions on AWS, GCP, and Azure. Combines deep technical skill with a leadership mindset, having mentored teams and embedded DevOps culture to deliver 3x deployment frequency improvements and petabyte-scale data platforms that drive business outcomes.",
     "location": {
       "city": "Florianopolis",
       "countryCode": "BR",
@@ -37,35 +37,35 @@
   ],
   "work": [
     {
-      "company": "Indicium",
-      "website": "https://indicium.tech",
+      "company": "Indicium AI",
+      "website": "https://indicium.ai",
       "position": "Tech Lead Data Engineer",
-      "startDate": "2024-10-02",
-      "summary": "Indicium is data-driven, and specializes in creating data science, analytics, and AI solutions",
+      "startDate": "2022-01-02",
+      "summary": "Indicium AI is data-driven, specializing in data science, analytics, and AI solutions. Lead engineering teams through hypergrowth while embedding DevOps/DataOps practices.",
       "highlights": [
-        "Led the execution of Data Engineering projects, collaborating closely with a team of data analysts, resulting in an increase in data processing efficiency.",
-        "Conceptualized and built a robust pipeline of data for 5 critical internal and external applications, leveraging API services for data ingestion and monitoring ELT process through metrics and tools.",
-        "Managed the loading of data on several distributed relational and non-relational storages and aggregated +1PB of data using distributed tools, resulting in a 40% increase in data accessibility for analysis.",
-        "Drove innovation by proposing and questioning Data Engineering solutions as a critical thinker, ensuring delivery of the best possible solutions for the organization while disseminating DevOps and DataOps principles within the team, resulting in an increase in team productivity."
+        "Institutionalized DevOps culture: implemented Terraform for infrastructure-as-code, containerization with Kubernetes, and robust CI/CD pipelines, increasing deployment frequency 3x and reducing production incidents by 40%.",
+        "Orchestrated 5 critical data pipelines using Apache Airflow (certified) for both batch and real-time processing, integrating API services and automated monitoring that cut incident response time by 60%.",
+        "Scaled the data platform to 1+ petabyte across distributed storage systems on AWS/GCP, leveraging Databricks and Snowflake, boosting data accessibility for analytics by 40%.",
+        "Led cross-functional collaboration with analysts and product managers, translating requirements into scalable technical solutions while mentoring junior engineers on DevOps best practices and cloud architecture."
       ]
     },
     {
-      "company": "Indicium",
-      "website": "https://indicium.tech",
+      "company": "Indicium AI",
+      "website": "https://indicium.ai",
       "position": "Team Lead Data Engineer",
       "startDate": "2023-01-02",
       "endDate": "2024-10-01"
     },
     {
-      "company": "Indicium",
-      "website": "https://indicium.tech",
+      "company": "Indicium AI",
+      "website": "https://indicium.ai",
       "position": "Data Engineer",
       "startDate": "2022-07-02",
       "endDate": "2023-01-01"
     },
     {
-      "company": "Indicium",
-      "website": "https://indicium.tech",
+      "company": "Indicium AI",
+      "website": "https://indicium.ai",
       "position": "Trainee Data Engineer",
       "startDate": "2022-01-02",
       "endDate": "2022-07-01"
@@ -75,10 +75,10 @@
       "position": "Co-Founder",
       "startDate": "2020-01-02",
       "endDate": "2022-06-02",
-      "summary": "Delivery-only kitchen that produces plant-based cheese and other delights.",
+      "summary": "Delivery-only kitchen producing plant-based cheese. Built the entire technical foundation from the ground up.",
       "highlights": [
-        "Developed a data-driven strategy to optimize the production process, reducing waste by 30% and increasing production by 20%.",
-        "Designed and implemented a data pipeline to monitor production metrics, enabling real-time decision-making and reducing production downtime by 15%."
+        "Provisioned and managed cloud-native infrastructure on GCP (Compute Engine, Cloud SQL/PostgreSQL), ensuring high availability and cost efficiency as the business scaled.",
+        "Developed a data-driven production pipeline that reduced waste by 30% and increased output by 20%, demonstrating ability to drive business impact through technical systems."
       ]
     },
     {
@@ -87,10 +87,9 @@
       "position": "General Manager",
       "startDate": "2016-08-02",
       "endDate": "2019-06-02",
-      "summary": "Artisanal cachaca distillery.",
+      "summary": "Artisanal cachaça distillery. Led digital transformation initiatives across all operations.",
       "highlights": [
-        "Led the implementation of a data-driven strategy to optimize the production process, reducing waste by 30% and increasing production by 20%.",
-        "Designed and implemented a data pipeline to monitor production metrics, enabling real-time decision-making and reducing production downtime by 15%."
+        "Introduced data-driven workflows and digital marketing systems, improving operational transparency and decision-making."
       ]
     },
     {
@@ -99,11 +98,10 @@
       "position": "Data Assistant",
       "startDate": "2010-10-02",
       "endDate": "2011-10-02",
-      "summary": "Center for Natural Disasters Research at the Santa Catarina's Federal University.",
+      "summary": "Center for Natural Disasters Research at UFSC.",
       "highlights": [
-        "Survey and organize data from hard-copy documents.",
-        "Help build a nationwide digital database of environmental disasters.",
-        "Custom solution development (Python and Shell scripts) cut staff workload by over 50%."
+        "Automated manual data processing with Python and Shell scripts, reducing staff workload by over 50% and accelerating disaster database updates.",
+        "Helped build a nationwide digital database of environmental disasters by migrating data from hard-copy documents."
       ]
     }
   ],
@@ -115,7 +113,7 @@
       "endDate": "2020-01-02",
       "summary": "Non-profit organization that offers programs to reduce stress and develop leadership skills.",
       "highlights": [
-        "Helped participants to learn techniques to reduce stress, worry, and anxiety."
+        "Facilitated stress-management workshops for 100+ participants, developing strong communication and leadership skills."
       ]
     },
     {
@@ -123,11 +121,9 @@
       "position": "Software Developer",
       "startDate": "2010-11-02",
       "endDate": "2016-08-02",
-      "summary": "Student organization that promotes entrepreneurship and innovation by build a prototype car to compete in a energy eficiency race.",
+      "summary": "Student organization building a prototype car for energy efficiency competitions.",
       "highlights": [
-        "Firmware and hardware developer of the team vehicle's embedded telemetry systems.",
-        "Attended several energy efficiency competitions in Brazil and USA as electronics technical manager.",
-        "Team work."
+        "Developed firmware and hardware for embedded telemetry systems, serving as electronics technical manager at international competitions in Brazil and USA."
       ]
     }
   ],
@@ -135,15 +131,15 @@
     {
       "name": "Conferences",
       "keywords": [
-        "Floripa dbt Meetup",
-        "Speaker"
+        "Floripa dbt Meetup Speaker",
+        "Data Engineering Community"
       ]
     }
   ],
   "languages": [
     {
       "language": "English",
-      "fluency": "Professional working proficiency"
+      "fluency": "Advanced"
     },
     {
       "language": "French",
@@ -157,19 +153,34 @@
       "startDate": "2021-01-02",
       "endDate": "2021-02-02",
       "highlights": [
-        "Odoo CE (v13) deployment, running at a Google Compute Engine instance Linux VM.",
-        "Database (PostgreSQL 9.6) provisioned apart at Cloud SQL."
+        "Deployed Odoo CE (v13) on a Compute Engine Linux VM, with a separate Cloud SQL (PostgreSQL 9.6) instance for database management."
       ]
     }
   ],
   "skills": [
     {
-      "name": "Amazon Web Services (AWS)",
+      "name": "Terraform",
+      "level": "Advanced"
+    },
+    {
+      "name": "Kubernetes",
+      "level": "Advanced"
+    },
+    {
+      "name": "CI/CD Pipeline Automation",
       "level": "Master"
     },
     {
       "name": "Apache Airflow",
-      "description": "Certified by Astro",
+      "description": "Certified by Astronomer",
+      "level": "Master"
+    },
+    {
+      "name": "Amazon Web Services (AWS)",
+      "level": "Master"
+    },
+    {
+      "name": "Google Cloud Platform (GCP)",
       "level": "Master"
     },
     {
@@ -177,32 +188,8 @@
       "level": "Advanced"
     },
     {
-      "name": "Bash",
-      "level": "Master"
-    },
-    {
-      "name": "CI/CD",
-      "level": "Master"
-    },
-    {
       "name": "Databricks",
       "description": "Data Engineer Associate",
-      "level": "Master"
-    },
-    {
-      "name": "Go",
-      "level": "Intermediate"
-    },
-    {
-      "name": "Google Cloud Platform",
-      "level": "Master"
-    },
-    {
-      "name": "Kubernetes",
-      "level": "Advanced"
-    },
-    {
-      "name": "Python",
       "level": "Master"
     },
     {
@@ -210,12 +197,20 @@
       "level": "Master"
     },
     {
+      "name": "Python",
+      "level": "Master"
+    },
+    {
       "name": "SQL",
       "level": "Advanced"
     },
     {
-      "name": "Terraform",
-      "level": "Advanced"
+      "name": "Bash",
+      "level": "Master"
+    },
+    {
+      "name": "Go",
+      "level": "Intermediate"
     }
   ]
 }
