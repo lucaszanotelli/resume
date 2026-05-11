@@ -19,7 +19,7 @@ using the `stackoverflow` theme.
 To generate or update the CV, use the following command:
 
 ```bash
-resumed render resume.json --output docs/resume.html
+resumed render resume.json --output docs/index.html
 --theme jsonresume-theme-stackoverflow
 ```
 
